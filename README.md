@@ -1,0 +1,2 @@
+# plusy-deploy
+deploy plusy
